@@ -1,7 +1,6 @@
 # Machine Learning Techniques — Python Laboratory Programs
 
-A collection of Python implementations covering numerical computing, exploratory data analysis, supervised learning, dimensionality reduction, regression, and unsupervised clustering. The repository organizes the lab work by **what each program does**, using a numeric prefix for a predictable reading order rather than naming files “Experiment 1”, “Experiment 2”, etc.
-
+A collection of Python implementations covering numerical computing, exploratory data analysis, supervised learning, dimensionality reduction, regression, and unsupervised clustering.
 ## Contents
 
 | File | What it does |
